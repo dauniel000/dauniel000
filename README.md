@@ -4,5 +4,6 @@
 
 
 - 💬 Ask me about BackEnd tips (js, ts, rust, golang, python)
-- 📫 How to reach me: discord: blemwom
-
+- 📫 How to reach me:
+  - discord: blemwom
+  - twitter: dauniel000
