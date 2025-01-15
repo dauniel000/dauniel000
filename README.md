@@ -6,4 +6,4 @@
 - 💬 Ask me about BackEnd tips (js, ts, rust, golang, python)
 - 📫 How to reach me:
   - discord: blemwom
-  - twitter: dauniel000
+  - twitter: (dauniel000)[https://x.com/dauniel000]
