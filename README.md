@@ -8,7 +8,7 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=c6mvunckjy4fzpmw7tufh6njp&count=5" alt="Spotify recently played"  />
+  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=c6mvunckjy4fzpmw7tufh6njp&count=5" alt="Spotify recently played"  />
   
 </div>
 
