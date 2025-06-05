@@ -7,10 +7,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=c6mvunckjy4fzpmw7tufh6njp&count=1" alt="no way" />
-  
-</div>
 
 ###
 
