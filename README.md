@@ -14,10 +14,3 @@
   - discord: blemwom
   - twitter: [dauniel000](https://x.com/daunieldev)
 
-- 💸 Want to support me:
-  - [buymeacoffee](https://buymeacoffee.com/daunieldev)
-
-
-<div align="center">
-  <p><a href="https://www.buymeacoffee.com/dauniel000"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dauniel000" /></a></p><br><br>
-</div>
