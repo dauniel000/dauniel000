@@ -1,5 +1,5 @@
 
-<h2 align="left">Me llamo Daniel y vengo de Polonia więc pozdro</h2>
+<h2 align="left">Me llamo Daniel y vengo de Polonia</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/dauniel000/dauniel000/output/github-snake-dark.svg" alt="Snake animation" />
@@ -16,10 +16,10 @@
 
 - 📫 How to reach me:
   - discord: blemwom
-  - twitter: [dauniel000](https://x.com/dauniel000)
+  - twitter: [dauniel000](https://x.com/daunieldev)
 
 - 💸 Want to support me:
-  - [buymeacoffee](https://buymeacoffee.com/dauniel000)
+  - [buymeacoffee](https://buymeacoffee.com/daunieldev)
 
 
 <div align="center">
